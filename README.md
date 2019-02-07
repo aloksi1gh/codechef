@@ -1,2 +1,2 @@
 # codechef
-This file contains level(beginner,easy,medium) of code 
+and also of different contests
